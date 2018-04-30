@@ -1,5 +1,5 @@
 # rstudio-theme
-This repo contains my custom rstudio theme 
+This repo contains my custom rstudio theme and is mostly here so I can track any additional changes that I may make to different styles and because each time I update to a new version of RStudio I will have to likely replace the default versions of the styles. 
 
 This was down by following the instructions in [this blog post](https://www.statworx.com/de/blog/make-rstudio-look-the-way-you-want-because-beauty-matters/) 
 
